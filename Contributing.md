@@ -1,19 +1,21 @@
-## Made in Ghana Contribution Rules 
-# Contributing to a Project  
+# Made in Ghana 7 Contribution Rules 
+## Contributing to a Project  
 To add a new project to the collection, please ensure they meet the following requirements arranged in order of importance  
   
-1. The project must be made in Ghana as the name implies or you should be a resident of Ghana.  
+1. The project must be made in Ghana, so you should be a Ghanian or have lived in Ghana.  
   
-2. The project must be open source.  
+2. The project must be open source on GitHub.  
   
-3. The project must have global use - meaning it's not made just for use by Nigerians and there really is no geographical limitation for anyone that may be interested in using this project.  
+3. The project must have global use - meaning it's not made just for use by Ghanians and there really is no geographical limitation for anyone that may be interested in using this project.  
   
-The project should have at least 10 stars. This is to serve as a way to determine that people actually have a use for the project and it does what it says it does. [ Stars likely to go up as time goes on 😃 ].  
+4. The project should have at least 3 stars. This is to serve as a way to determine that people actually have a use for the project and it does what it says it does.  
   
-The project should not be a list of some sort.  
+5. The project should not be a listicle  (a list of some sort).  
   
-Ensure to provide a social media url of the creator of the project outside GitHub.  
+6. Ensure to provide Twitter and LinkedIn url of the creator of the project outside GitHub.  
   
-Try to add the project to it's appropriate alphabetical location.   
+7. Try to add the project to it's appropriate alphabetical location.   
+
+If you have checked all these boxes, [Fork the Repository here] (https://github.com/viclotana/MadeInGhana) and then add your project in [the readme file here] (https://github.com/viclotana/MadeInGhana/blob/master/README.md) and then submit a Pull Request. 
   
-More requirements may be added as time goes on.  
+More requirements may be added as time goes on....
