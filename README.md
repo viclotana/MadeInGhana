@@ -3,7 +3,7 @@
     Made In Ghana
   </a>
 </h1>
-<p align="center">A curation of awesome tools and projects built by developers in Ghana, please feel free to contribute by first looking at [the contributors guide](https://github.com/viclotana/MadeInGhana/blob/master/Contributing.md).</p>
+<p align="center">A curation of awesome tools and projects built by developers in Ghana, please feel free to contribute by first looking at the contributors guide [contributing.md file].</p>
 
 ## <a name="S"> </a>S
 
