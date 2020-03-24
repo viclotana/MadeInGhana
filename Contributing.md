@@ -16,6 +16,6 @@ To add a new project to the collection, please ensure they meet the following re
   
 7. Try to add the project to it's appropriate alphabetical location.   
 
-If you have checked all these boxes, [Fork the Repository here] (https://github.com/viclotana/MadeInGhana) and then add your project in [the readme file here] (https://github.com/viclotana/MadeInGhana/blob/master/README.md) and then submit a Pull Request. 
+If you have checked all these boxes, [Fork the Repository here](https://github.com/viclotana/MadeInGhana) and then add your project in [the readme file here](https://github.com/viclotana/MadeInGhana/blob/master/README.md) and then submit a Pull Request. 
   
 More requirements may be added as time goes on....
