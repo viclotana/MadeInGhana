@@ -1,4 +1,4 @@
-# Made in Ghana 7 Contribution Rules 
+# Made in Ghana 8 Contribution Rules 
 ## Contributing to a Project  
 To add a new project to the collection, please ensure they meet the following requirements arranged in order of importance  
   
@@ -14,8 +14,11 @@ To add a new project to the collection, please ensure they meet the following re
   
 6. Ensure to provide Twitter and LinkedIn url of the creator of the project outside GitHub.  
   
-7. Try to add the project to it's appropriate alphabetical location.   
+7. Try to add the project to it's appropriate alphabetical location.  
+
+8. STAR this [project](https://github.com/viclotana/MadeInGhana)
 
 If you have checked all these boxes, [Fork the Repository here](https://github.com/viclotana/MadeInGhana) and then add your project in [the readme file here](https://github.com/viclotana/MadeInGhana/blob/master/README.md) and then submit a Pull Request. 
+After review, your PR will be merged in approximately 24 - 48 hours.
   
 More requirements may be added as time goes on....
