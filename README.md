@@ -13,6 +13,10 @@
 ## <a name="F"> </a>F
 ## <a name="G"> </a>G
 ## <a name="H"> </a>H
+
+
+* [Hospitals in Ghana](github.com/wecodeafrica/hospitalsghana) - A database of Public and Private Hospitals in Ghana  **By [@wecodeafrica](https://github.com/wecodeafrica)**
+
 ## <a name="I"> </a>I
 ## <a name="J"> </a>J
 ## <a name="K"> </a>K
